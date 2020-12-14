@@ -1,4 +1,4 @@
-FROM python
+FROM python:3.10.0a3-alpine
 LABEL Closing Brackets
 
 ENV PYTHONUNBUFFERED 1
